@@ -1,0 +1,59 @@
+{
+   "search_session_id": "21695520577709-976147278433547978",
+   "page_info": {
+      "total_results": 100
+   },
+   "results": [
+      {
+         "url": "https://support.google.com/accounts/answer/185839?hl=en&co=GENIE.Platform%3DAndroid",
+         "title": "Turn on 2-Step Verification",
+         "snippet": "With 2-Step Verification, also called two-factor authentication, you can add an extra layer of security to your account in case your password is stolen. After y",
+         "type": "CT_ANSWER",
+         "id": "185839",
+         "page_type": "ANSWER",
+         "tracking_id": "66b2dd5f-4d23-4316-81bc-20b4106fa222",
+         "request_id": "CiRiM2Q2NGVlMC1kODNlLTQ3ZmUtODMwOS1jYzcwMDI2M2EyYzMQBBgEIAc"
+      },
+      {
+         "url": "https://support.google.com/accounts/answer/6208650?hl=en",
+         "title": "Save, manage & protect your passwords",
+         "type": "CT_ANSWER",
+         "id": "6208650",
+         "page_type": "ANSWER",
+         "tracking_id": "9b8d5aba-a363-4659-a2ef-971dc05671a9",
+         "request_id": "CiRiM2Q2NGVlMC1kODNlLTQ3ZmUtODMwOS1jYzcwMDI2M2EyYzMQBBgEIAc"
+      },
+      {
+         "url": "https://support.google.com/accounts/answer/3067630?hl=en",
+         "title": "See devices with account access",
+         "snippet": "You can see computers, phones, and other devices where you are or were signed in to your Google Account recently. You can check google.com/devices to make sure ",
+         "type": "CT_ANSWER",
+         "id": "3067630",
+         "page_type": "ANSWER",
+         "tracking_id": "a03c8227-c30f-40df-b7b7-f412dbf79b82",
+         "request_id": "CiRiM2Q2NGVlMC1kODNlLTQ3ZmUtODMwOS1jYzcwMDI2M2EyYzMQBBgEIAc"
+      },
+      {
+         "url": "https://support.google.com/accounts/answer/7682439?hl=en",
+         "title": "How to recover your Google Account or Gmail",
+         "snippet": "If you forgot your password or username, or you can’t get verification codes, follow these steps to recover your Google Account. That way, you can use services ",
+         "type": "CT_ANSWER",
+         "id": "7682439",
+         "page_type": "ANSWER",
+         "tracking_id": "42d25bc5-f2e5-4ce0-8673-afeae9f169af",
+         "request_id": "CiRiM2Q2NGVlMC1kODNlLTQ3ZmUtODMwOS1jYzcwMDI2M2EyYzMQBBgEIAc"
+      },
+      {
+         "url": "https://support.google.com/accounts/answer/7660719?hl=en",
+         "title": "Find, control & delete the info in your Google Account",
+         "snippet": "Learn more about managing your Google Account info and activity. You can choose what type of activity is saved in your account and used to personalize your expe",
+         "type": "CT_ANSWER",
+         "id": "7660719",
+         "page_type": "ANSWER",
+         "tracking_id": "99b48336-af39-4412-b4ea-9a4b3eeeb9ac",
+         "request_id": "CiRiM2Q2NGVlMC1kODNlLTQ3ZmUtODMwOS1jYzcwMDI2M2EyYzMQBBgEIAc"
+      }
+   ],
+   "next_page_token": "CiQ4MWM3M2U5NS1lZGZkLTRiZmYtYjZkZS1jODEzNzQwYWYxMGYQABiWASAFKAUyAQA6AQBABlACWAA",
+   "request_id": "CiRiM2Q2NGVlMC1kODNlLTQ3ZmUtODMwOS1jYzcwMDI2M2EyYzMQBBgEIAc"
+}
